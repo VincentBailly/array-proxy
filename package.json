@@ -1,0 +1,19 @@
+{
+  "name": "array-proxy",
+  "version": "1.0.0",
+  "description": "Make proxies work with arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [],
+  "repository": "VincentBailly/array-proxy",
+  "author": {
+    "name": "Vincent Bailly",
+    "email": "vincent.bailly@microsoft.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^15.1.5"
+  }
+}
